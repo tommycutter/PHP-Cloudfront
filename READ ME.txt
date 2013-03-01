@@ -1,1 +1,0 @@
-note: please modify the file, lib/AWS.php to use your AWS identifiers
